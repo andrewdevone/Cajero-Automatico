@@ -1,6 +1,7 @@
 Hola esta es una prueba de union de ramas con Rebase
 
 
+<<<<<<< HEAD
 
 
 Master33333
@@ -9,3 +10,8 @@ Master33333
 
 experimento1111
 
+=======
+experimento111
+
+experimentos 22222
+>>>>>>> 83b8d9e (Exp2)
